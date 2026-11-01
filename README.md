@@ -12,5 +12,5 @@ yang menampilkan website portofolio pribadi berbasis HTML, CSS (Flexbox), dan PH
 ---
 
 ## 🔗 Tautan Publik & Demo
-**Tautan Deployment Vercel (Frontend Statis):** 
+**Tautan Deployment Vercel (Frontend Statis):** https://uts-portofolio-davidwelson.vercel.app/
 **Bukti Demo PHP Lokal (XAMPP / Server Lokal):** https://drive.google.com/file/d/1ukxYXxKhnA3xI8IO7QRLjMbxjqANZIqD/view?usp=sharing
